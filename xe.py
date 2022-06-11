@@ -39,3 +39,4 @@ a.sort()
 b=[2,1]
 b.sort()
 print(a==b)
+print(“搜索”)
